@@ -170,6 +170,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Development
 
+- [zoth-cli / hermes-zoth](https://github.com/1nc0gn30/hermes-zoth) - CLI and agent toolkit for searching, pulling, and orchestrating 77+ zero-cloud Zoth Studio developer and security utilities.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
